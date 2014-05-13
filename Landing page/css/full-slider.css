@@ -17,7 +17,11 @@ html, body {
 	height:100%;
 	background-position: center;
 	background-size: cover;
-	
+	background-image:url('img/testscreen1.jpg');
+    display: block;
+
+    text-indent:-9999px;
+   
 }
 
 .section {
