@@ -1,0 +1,35 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+	margin-left: 50px;
+}
+
+.buchseite {
+
+	background-color: #65adbe;
+	font:white;
+}
+
+.Programm{
+
+	background-color: red;
+}
+
+.button{
+	margin-top: 300px;
+}
+
+.bild{
+	border-style: solid;
+	border-radius: 2px;
+	border-color: white;
+}
+
+/*.full {
+  background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
