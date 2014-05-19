@@ -3,8 +3,13 @@ body {
 	margin-bottom: 50px;
 	background: none;
 	margin-left: 50px;
+
 }
 
+.index{
+
+	background-color: #ecf2f5;
+}
 .buchseite {
 
 	background-color: #65adbe;
