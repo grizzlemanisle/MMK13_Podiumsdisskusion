@@ -280,7 +280,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Myriad Pro",Myriad, Arial, sans-serif, table-condensed;
   font-size: 14px;
   line-height: 1.428571429;
   color: #333;
