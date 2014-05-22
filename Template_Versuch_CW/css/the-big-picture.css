@@ -10,16 +10,21 @@ body {
 .index{
 
 	background-color: #ecf2f5;
-	font-family: "Arial", sans-serif}
+}
+
 .buchseite {
 
 	background-color: #65adbe;
-	font:white;
+	
 }
 
 .Programm{
 
-	background-color: red;
+	font-family: "Myriad Condensed Web", sans-serif
+}
+
+.Anmeldung{
+	font-family: "Myriad Condensed Web", sans-serif}
 }
 
 .button{
