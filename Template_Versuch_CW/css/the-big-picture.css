@@ -9,7 +9,8 @@ body {
 
 .index{
 
-	background-color: #ecf2f5;
+	background-color: white;
+	font-family: 'PT Sans', sans-serif;
 }
 
 .buchseite {
@@ -20,11 +21,11 @@ body {
 
 .Programm{
 
-	font-family: "Myriad Condensed Web", sans-serif
+	font-family: 'PT Sans', sans-serif;
 }
 
 .Anmeldung{
-	font-family: "Myriad Condensed Web", sans-serif}
+	font-family: "Myriad Condensed Web", sans-serif
 }
 
 .button{
