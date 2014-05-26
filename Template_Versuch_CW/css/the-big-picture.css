@@ -41,6 +41,12 @@ body {
 .inhalt{
 margin-left: 20px;
 }
+
+.Pfeil-links{
+
+margin-top: 220px;
+}
+
 /*.full {
   background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
   -webkit-background-size: cover;
