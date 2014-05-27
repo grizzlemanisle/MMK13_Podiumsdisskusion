@@ -316,7 +316,7 @@ img {
 }
 .img-responsive {
   display: block;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 .img-rounded {
@@ -484,7 +484,7 @@ p {
 }
 small,
 .small {
-  font-size: 85%;
+  font-size: 65%;
 }
 cite {
   font-style: normal;
@@ -614,7 +614,7 @@ dd {
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: left;
-    width: 160px;
+    width: 140px;
     overflow: hidden;
     clear: left;
     text-align: right;
@@ -749,9 +749,11 @@ pre code {
 
 }
 @media (min-width: 768px) {
-  .container {
+  .container{
     width: 40%;
     padding-left: 10px;
+    font-size: 12px;
+
   }
 }
 @media (min-width: 992px) {
