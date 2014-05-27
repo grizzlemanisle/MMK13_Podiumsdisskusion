@@ -446,7 +446,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 55px;
+  font-size: 60px;
 }
 h2,
 .h2 {
@@ -745,21 +745,23 @@ pre code {
   margin-right: auto;
   margin-left: auto;
   font-family: "Myriad Condensed Web","Myriad Condensed", "Myriad" sans-serif}
+  
 
 }
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 40%;
+    padding-left: 10px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 60%;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 80%;
   }
 }
 .container-fluid {
