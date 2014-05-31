@@ -1,0 +1,49 @@
+    a:link{color:#000;}
+    a:visited{color:#ff0;}
+    a:hover{color:#f00;}
+    a:active{color:#f00;}
+    
+    @font-face {
+    	font-family: 'Myriad Web Condensed';
+    	src: url(font/Myriad Condensed Web.ttf);
+    }
+
+    p{
+    	font-size: 17px;   
+    }
+
+    .Pfeil-links{
+
+    	margin-top: 240px;
+    	z-index: 3;
+    }
+    .Pfeil-rechts{
+
+    	margin-top: 240px;
+    	float:right;
+    	position: relative;
+    	margin-right: 50px;
+    	z-index: 3;
+
+    }
+
+    .icon{
+    	margin-left: 45px;
+    	margin-top: 10px;
+    }
+
+    .link{
+
+    	font-style: bold;
+
+    }
+
+    .bild{
+    	z-index: 2;
+    }
+#headlines-row{
+    margin-bottom: 120px;
+}
+#anmelden-button{
+    margin-bottom: 20px;
+}
