@@ -1,5 +1,5 @@
     a:link{color:#206eb6;}
-    a:visited{color:#206eb6;}
+   /* a:visited{color:#206eb6;}*/
     a:hover{color:#206eb6;}
     a:active{color:#206eb6;}
     
@@ -42,7 +42,7 @@
     	z-index: 2;
     margin-bottom: 20px;
  }
-    }
+
 #headlines-row{
     margin-bottom: 120px;
     margin-left: 5px;
