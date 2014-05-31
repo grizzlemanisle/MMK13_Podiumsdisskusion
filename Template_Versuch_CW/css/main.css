@@ -1,7 +1,7 @@
-    a:link{color:#000;}
-    a:visited{color:#ff0;}
-    a:hover{color:#f00;}
-    a:active{color:#f00;}
+    a:link{color:#206eb6;}
+    a:visited{color:#206eb6;}
+    a:hover{color:#206eb6;}
+    a:active{color:#206eb6;}
     
     @font-face {
     	font-family: 'Myriad Web Condensed';
@@ -40,9 +40,12 @@
 
     .bild{
     	z-index: 2;
+    margin-bottom: 20px;
+ }
     }
 #headlines-row{
     margin-bottom: 120px;
+    margin-left: 5px;
 }
 #anmelden-button{
     margin-bottom: 20px;

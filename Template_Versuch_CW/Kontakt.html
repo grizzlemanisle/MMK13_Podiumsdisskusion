@@ -15,32 +15,14 @@
 
     <!-- Custom CSS for the 'Full' Template -->
     <link href="css/the-big-picture.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
 
     <style type="text/css">
 @font-face {
    font-family: 'Myriad Web Condensed';
    src: url(font/Myriad Condensed Web.ttf);
    }
-   p{
- font-size: 17px;   
-}
 
-.Pfeil-links{
-
-margin-top: 240px;
-}
-.Pfeil-rechts{
-
-margin-top: 240px;
-float:right;
-position: relative;
-margin-right: 50px;
-
-}
-.icon{
-    margin-left: 45px;
-    margin-top: 10px;
-}
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 <script>
@@ -98,30 +80,57 @@ margin-right: 50px;
 
     <a class="hidden-xs"href="Kooperation.html"><img class="Pfeil-links" src="img/before.png" alt="nächsteSeite" width="30px" style="float:left;"></a>
             <a class="hidden-xs hidden-sm" href="index.html"><img class="Pfeil-rechts" src="img/next1.png" alt="nächsteSeite" width="30px" ></a>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-sm-8">
+            <!-- Versuch eine Pfeil nach links einzubinden:  Sollte in den div des Textes bzw daneben-->
+            <!-- Eventuell über neues div für den Text?-->    
+            <div class="inhalt">
+                <div class="row">
+                    <div class="row hidden-xs hidden-sm" id="headlines-row">
+                        <h1>Kontakt</h1>
+                        <p>Wenn Sie noch Fragen zur Veranstaltung oder Ihrer Anmeldung haben, schreiben Sie gerne eine E-Mail an: 
+                            <a href="mailto:kontakt@digitales-fruehstueck.de">  Kontakt@digitales-fruehstueck.de </a></p>
+
+                           <p> <strong> Duale Hochschule Baden-Württemberg </strong> </br>
+                                        Coblitzallee 1-9 </br>
+                                        68163 Mannheim </br>
+                                        Tel.: +49 (0)621 4105 - 1304 </br>
+                                        Fax: +49 (0)621 4105 - 1245 
+                            </p>
+
+                    </div>
+                    <div class="row hidden-md hidden-lg">
+                        <h1>Kontakt</h1>
+                        <p>Wenn Sie noch Fragen zur Veranstaltung oder Ihrer Anmeldung haben, schreiben Sie gerne eine E-Mail an:<a href="mailto:kontakt@digitales-fruehstueck.de">  Kontakt@digitales-fruehstueck.de </a> </p>
+
+                           <p> <strong> Duale Hochschule Baden-Württemberg </strong> </br>
+                                        Coblitzallee 1-9 </br>
+                                        68163 Mannheim </br>
+                                        Tel.: +49 (0)621 4105 - 1304 </br>
+                                        Fax: +49 (0)621 4105 - 1245 
+                            </p>
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-sm-4">
-                <h1>Kontakt</h1>
-                <p>Wenn Sie noch Fragen zur Veranstaltung oder Ihrer Anmeldung haben, schreiben Sie gerne eine E-Mail an:kontakt@digitales-fruehstueck.de</p> </br>
-
-                <p> <strong> Duale Hochschule Baden-Württemberg </strong> </br>
-                    Coblitzallee 1-9 </br>
-                    68163 Mannheim </br>
-                    Tel.: +49 621 41050</p>
-                   
-                    <!--   <a href="Kontakt.html"><img src="img/before.png" alt="nächsteSeite" width="50px" margin-top="300px" margin-left="5px"></a>-->
- 
-       </div>
-
-             <div class="col-lg-6 col-sm-4">
-            <img class="hidden-xs" src="img/Buch_Tasse.jpg" alt="buchtitel" width="500px">
+                    </div>
+                    </div>
+                <div class="row">
+                    <div class="col-sm-12 hidden-lg hidden-md">
+                         <a href="http://bit.ly/digitales-fruehstück" alt="buchtitel"><img class="bild"src="img/Buch_Tasse.jpg" alt="buchtitel" width="200px" margin-top="10px">
+                    </div>
+                </div>
+              
+        
 
             </div>
         </div>
-    </div>
+        <!--Seite rechts-->
+        <div class="col-lg-6 col-sm-3 hidden-sm hidden-xs">
+            <a href="http://bit.ly/digitales-fruehstück" alt="buchtitel"><img class="bild"src="img/Buch_Tasse.jpg" alt="buchtitel" width="500px" margin-top="10px">
 
+        </div>
+    </div>
+</div>
 
     <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>
