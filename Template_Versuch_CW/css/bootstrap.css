@@ -5,6 +5,11 @@
  */
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+@font-face {
+font-family: Myriad_web; //Wählen Sie hier den Namen Ihrer Schriftart
+src: url('http://www.digitales-fruehstueck.de/fonts/Myriad_Condensed_Web.ttf'); //Passen Sie den Pfad Ihrer Schriftart an
+}
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -67,6 +72,7 @@ dfn {
   font-style: italic;
 }
 h1 {
+  font-family: Myriad_web;
   margin: .67em 0;
   font-size: 2em;
 }
