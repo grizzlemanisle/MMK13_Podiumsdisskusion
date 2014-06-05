@@ -10,7 +10,6 @@ body {
 .index{
 
 	background-color: white;
-	font-family: 'PT Sans', sans-serif;
 }
 
 .buchseite {
@@ -21,13 +20,9 @@ body {
 
 .Programm{
 
-	font-family: 'PT Sans', sans-serif;
 	background-color: #c9e1ed;
 }
 
-.Anmeldung{
-	font-family: "Myriad Condensed Web", sans-serif
-}
 
 .button{
 	margin-top: 300px;
