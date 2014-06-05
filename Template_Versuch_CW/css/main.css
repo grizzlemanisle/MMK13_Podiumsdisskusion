@@ -2,13 +2,7 @@
    /* a:visited{color:#206eb6;}*/
     a:hover{color:#58585a;}
     a:active{color:#58585a;}
-    
-    @font-face {
-    	font-family: 'Myriad Web Condensed';
-    	src: url(font/Myriad Condensed Web.ttf);
-    }
-
-    p{
+     p{
     	font-size: 17px;   
     }
 
